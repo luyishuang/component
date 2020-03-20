@@ -1,11 +1,11 @@
 var data1 = [
-    {name:'Java',race:'1',float:'降',change:'-0.01%'},
-    {name:'C',race:'2',float:'升',change:'+2.44%'},
-    {name:'Python',race:'3',float:'升',change:'+1.41%'},
-    {name:'C++',race:'4',float:'降',change:'-2.58%'},
-    {name:'C#',race:'5',float:'升',change:'+2.07%'},
-    {name:'Visual Basic.NET',race:'6',float:'降',change:'-1.17%'},
-    {name:'JavaScript',race:'7',float:'降',change:'-0.85%'}
+    { name: 'Java', race: '1', float: '降', change: '-0.01%' },
+    { name: 'C', race: '2', float: '升', change: '+2.44%' },
+    { name: 'Python', race: '3', float: '升', change: '+1.41%' },
+    { name: 'C++', race: '4', float: '降', change: '-2.58%' },
+    { name: 'C#', race: '5', float: '升', change: '+2.07%' },
+    { name: 'Visual Basic.NET', race: '6', float: '降', change: '-1.17%' },
+    { name: 'JavaScript', race: '7', float: '降', change: '-0.85%' }
 ],
     container1 = document.getElementById('example1'),
     settings1 = {
