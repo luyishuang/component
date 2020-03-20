@@ -37,7 +37,7 @@ var option = {
     },
     tooltip: {
         trigger: 'axis',
-        formatter: '&nbsp&nbsp{a}<br/>{b} : {c}'
+        formatter: '&nbsp&nbsp&nbsp{a}<br/>{b} : {c}'
     },
     grid: {
         left: '3%',
