@@ -17,7 +17,7 @@ module.exports = function (grunt) {
       },
       target: {
         files: {
-          'dist/layout.min.css': './*.css'
+          './dist/layout.min.css': './*.css'
         }
       }
     },
