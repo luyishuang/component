@@ -4,7 +4,7 @@
   "description": "🎀 handsontable与Echarts",
   "main": "main.js",
   "dependencies": {
-    "handsontable": "^7.4.2",
+    "handsontable": "^10.0.0",
     "echarts": "^4.7.0"
   },
   "devDependencies": {
